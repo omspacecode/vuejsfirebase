@@ -89,13 +89,14 @@
 
 import Firebase from 'firebase'
 
+//add firebase config
 let config = {
-  apiKey: "AIzaSyAKB5zqBwd_UePHm72UTM8eo8Lmxc26pzk",
-  authDomain: "vuejs-firebase-01-b554c.firebaseapp.com",
-  databaseURL: "https://vuejs-firebase-01-b554c.firebaseio.com",
-  projectId: "vuejs-firebase-01-b554c",
-  storageBucket: "vuejs-firebase-01-b554c.appspot.com",
-  messagingSenderId: "735896968925"
+  apiKey: "API_KEY",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 }
 
 let app = Firebase.initializeApp(config);
