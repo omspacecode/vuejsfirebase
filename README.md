@@ -1,6 +1,6 @@
-# vuejsfirebase
+# VueJS Firebase VueFire
 
-> A Vue.js project
+> A Vue.js project with Firebase Real Time Database
 
 ## Build Setup
 
